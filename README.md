@@ -1,1 +1,3 @@
-# 11402_CS351
+## Course: AI-Assisted Software Development (CS351)
+
+This course explores the integration of artificial intelligence tools and techniques into the software development lifecycle. Students learn how to leverage AI-powered assistants, code generation models, and automated testing tools to enhance productivity, improve code quality, and streamline workflows. Topics include prompt engineering for code generation, AI-driven debugging and refactoring, automated code review, ethical considerations of AI in software engineering, and the practical application of large language models (LLMs) as development aids. Through hands-on projects, students gain experience using AI tools to solve real-world software engineering challenges while developing critical evaluation skills to assess AI-generated output.
